@@ -1,0 +1,5 @@
+date_arr = [1995,1998,1998,1992]
+puts date_arr[0]
+puts date_arr[1]
+puts date_arr[2]
+puts date_arr[3]

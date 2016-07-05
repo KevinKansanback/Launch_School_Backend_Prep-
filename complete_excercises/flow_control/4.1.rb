@@ -1,0 +1,5 @@
+1) false (correct)
+2) false (correct)
+3) true (false)
+4) true (correct)
+5) true (correct)
